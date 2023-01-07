@@ -112,6 +112,8 @@ main {
 	border-radius: 5px;
 }
 .linear-gradient .head-title {
+	height: 130px;
+	width: 480px;
 	font-size: 40px;
 	line-height: 59px;
 	font-weight: 700;
