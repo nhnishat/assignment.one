@@ -143,7 +143,7 @@ footer {
 }
 .last-section {
 	display: flex;
-	gap: 100px;
+	gap: 300px;
 	align-items: center;
 	padding: 120px 320px 0 320px;
 }
